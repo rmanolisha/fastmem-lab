@@ -4,7 +4,7 @@
 
 **Team:** The further
 **Hackathon:** DataForge / Dragon Hatchling  
-**GitHub:** [Your GitHub Repository Link]  
+**GitHub:** https://github.com/rmanolisha/fastmem-lab 
 **Live Demo:** https://fastmem-lab.vercel.app/
 
 **Claim:** A fast-weight matrix can store and retrieve associations without gradient
@@ -141,3 +141,13 @@ access).
 See [`docs/limitations.md`](docs/limitations.md) for the full list, including the
 purely-additive (non-delta-rule) write mechanism, in-memory-only backend sessions, and
 the single-association cosine-similarity degeneracy surfaced during development.
+
+## Submission Artifacts
+
+- Live Demo: https://fastmem-lab.vercel.app/
+- Source Code: https://github.com/rmanolisha/fastmem-lab
+- Blog: docs/blog.pdf
+- One-Page Concept Summary: docs/concept-summary.pdf
+- Research Papers: research/papers.md
+- Sources & Licenses: SOURCES.md
+- AI Assistance Disclosure: AI_DISCLOSURE.md
