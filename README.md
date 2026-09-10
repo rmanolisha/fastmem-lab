@@ -135,10 +135,7 @@ This project's code, documentation, and research summaries were produced with AI
 assistance (Claude, Anthropic) working from a detailed human-authored specification.
 All backend tests were actually executed (not just written) and all cited papers were
 verified via live search against their real, current listings rather than recalled from
-memory — see `STATUS.md` for exactly what was implemented and verified versus what
-remains manual follow-up for the user (primarily: pushing this to a public repository
-and deploying it, since the build environment used here has no outbound hosting
-access).
+memory.
 
 ## Known limitations
 See [`docs/limitations.md`](docs/limitations.md) for the full list, including the
