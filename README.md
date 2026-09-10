@@ -1,5 +1,12 @@
 # FastMem Lab — Associative Memory & Fast Weights 
 
+## Fast-Weight Associative Memory: Learning Through Changing Connections
+
+**Team:** [The further]  
+**Hackathon:** DataForge / Dragon Hatchling  
+**GitHub:** [Your GitHub Repository Link]  
+**Live Demo:** [Your Deployed Application URL]
+
 **Claim:** A fast-weight matrix can store and retrieve associations without gradient
 descent, but capacity is bounded and new writes interfere with old ones.
 
