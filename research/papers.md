@@ -81,7 +81,5 @@ this project's independent, simplified educational implementation.
 ---
 
 ## Note on scope
-The hackathon concept sheet asked for 3+ primary papers dated 2022–2026. Sources
-1–3 satisfy that directly (2024–2025). Source 4 (2021) is included as clearly
-labeled background because it is the paper the two in-range sources both build on
-and cite — it is not counted toward the 2022–2026 quota.
+
+Sources 1–3 are primary papers published between 2022–2026 and satisfy the hackathon's 3+ primary-paper requirement. Source 4 (2021) is included only as foundational background and is not counted toward this requirement.
