@@ -4,15 +4,15 @@ FastMem Lab was developed with the assistance of AI-based development and resear
 
 ## AI Tools Used
 
-- **Claude Code** — assisted with code generation, debugging, project structure, documentation, and implementation guidance.
-- **ChatGPT** — assisted with technical explanations, research organization, documentation drafting, and reviewing project concepts and presentation content.
+- **Claude Code** — assisted with code generation, debugging, project structure, documentation.
+- **ChatGPT** — assisted with technical explanations, research organization and reviewing project concepts and presentation content.
 
 ## How AI Assistance Was Used
 
 AI tools were used as development and research assistants for:
 
-- Generating and refining implementation code.
-- Debugging and resolving development issues.
+- Refining implementation code.
+- Resolving development issues.
 - Structuring the FastAPI backend and React frontend.
 - Explaining fast-weight associative memory concepts and mathematical formulations.
 - Assisting with documentation, README content, and project organization.
@@ -22,7 +22,7 @@ AI tools were used as development and research assistants for:
 
 The project concept, system design, experimental objectives, selection of the fast-weight mechanism, interpretation of results, and final project decisions were reviewed and determined by the project team.
 
-AI-generated code and content were reviewed, modified, tested, and integrated by the team. The team is responsible for the final implementation, claims, results, and submitted materials.
+Code and content were reviewed, modified, tested, and integrated by the team. The team is responsible for the final implementation, claims, results, and submitted materials.
 
 ## Research and Sources
 
