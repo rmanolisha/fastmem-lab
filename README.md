@@ -1,4 +1,4 @@
-# FastMem Lab — Associative Memory & Fast Weights
+# FastMem Lab — Associative Memory & Fast Weights 
 
 **Claim:** A fast-weight matrix can store and retrieve associations without gradient
 descent, but capacity is bounded and new writes interfere with old ones.
