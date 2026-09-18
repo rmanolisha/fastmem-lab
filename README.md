@@ -2,8 +2,6 @@
 
 ## Fast-Weight Associative Memory: Learning Through Changing Connections
 
-**Team:** The further
-
 **Hackathon:** DataForge / Dragon Hatchling
 
 **GitHub:** https://github.com/rmanolisha/fastmem-lab 
